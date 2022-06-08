@@ -3,7 +3,7 @@ kind: Template
 metadata:
   name: k3t-php8-lumen-rest
   title: PHP 8 Lumen Rest API
-  description: 
+  description: Cria um microserviço com exposição Rest usando PHP8 e Lumen framework
   tags:
     - api
     - rest
@@ -11,7 +11,7 @@ metadata:
     - laravel
     - lumen
 spec:
-  owner: 
+  owner: tech@kode3.tech
   type: service
   parameters:
     - title: Provide some simple information
